@@ -1,0 +1,1 @@
+# django_REST_complex_data
